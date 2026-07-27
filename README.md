@@ -12,7 +12,7 @@ A full-cycle analytics project on ShopSphere, a global marketplace selling seven
 | :---- | :---- |
 | `data/` | Five source CSV files (see Data below) |
 | `Shopsphere_analysis.ipynb` | Full reproducible analysis in pandas: data validation, marketing ROI, customer LTV, category profitability, discount behavior, revenue concentration, and the A/B test with subgroup analysis |
-| `ShopSphere Project.docx` | Full written report — business context, all findings with supporting numbers and charts, and final recommendations |
+| `reports/` | Full written reports — business context, all findings with supporting numbers and charts, and final recommendations |
 | `README.md` | This file |
 
 ## Data
